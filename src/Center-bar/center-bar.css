@@ -1,0 +1,28 @@
+.center-bar{
+    background-color: rgb(175, 141, 96);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    float: left;
+    top: 0;
+    width: 40%;
+
+}
+.center-bar p{
+    margin: 0;
+}
+.row {
+    display: flex;
+    align-items:flex-start ; 
+    justify-content: space-between; 
+    padding: 0 20px
+}
+.section-skills{
+   padding: 10px 0 0 0;
+}
+img{
+    width: 200px;
+} 
+.section{
+    padding: 20px 20px
+}

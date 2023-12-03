@@ -1,0 +1,9 @@
+*{
+    font-family: 'Bellota Text', cursive;
+    color: #151616;
+    
+}
+.container{
+    display: flex;
+    background: rgb(178, 218, 103);
+}
